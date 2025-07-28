@@ -1,0 +1,54 @@
+EXPERT
+===========
+Spring cloud
+JavaScript
+Core Spring
+Jenkins
+Service Discovery
+Template-Driven and 
+Reactive Forms
+Load Balancing
+EnableDiscoveryClient
+try-with-resources
+Components Deep Dive / Routing
+Spring microservices
+HTML
+RuntimeException
+Arrays
+StringBuilder
+Spring Data
+IOException
+CSS
+EnableEurekaServer
+NOSQL
+Eureka Server
+Core Java
+toString method
+
+INTERMEDIATE
+=============
+Microservices
+JPA/Hibernate
+AWS Introduction
+Spring Boot Rest API'
+Angular
+Spring Core
+
+BEGINNER
+=============
+TypeScript
+Inheritance
+Design Principle
+Collections
+Generics
+Multithreading & Executor Framework
+Operators
+OOPS
+RDBMS Concept
+Method Overriding
+Bootstrap
+Type casting
+Docker
+Abstract Class
+Spring Boot
+GIT Fundamentals

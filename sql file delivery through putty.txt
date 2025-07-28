@@ -1,0 +1,34 @@
+How to do the cvn07/preprod SQL delivery:-
+
+
+
+first create the sql file.
+
+
+
+then pull that in winscp path in cvn03
+
+
+
+putty commands:-
+
+then :- mdecvn03
+
+password:- cddcvn03
+
+cd url where u kept script file :- /usersdev2/cvn03/livraison_INDUS
+
+
+sqlplus cvn08/cddcvn08@yval31e0.inetpsa.com:1521/cvn08
+
+
+
+oR
+
+
+
+sqlplus cvn07/cddcvn07@yval31e0.inetpsa.com:1521/cvn07
+
+
+
+@ETAPE_script_IS_Alter_V4-1-5-2
